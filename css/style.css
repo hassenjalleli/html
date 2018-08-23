@@ -1,0 +1,101 @@
+body{
+    background-color: #92bde7;
+}
+.students{
+    color: black;
+}
+.ada{
+    color: white;
+}
+#ada{
+    
+    display: inline-block;
+    padding-top: 1%;
+    margin-left: 10%;
+
+
+}
+.box{
+    color:white;
+    background: white;
+    width: 900px;
+    height: 500px;
+    margin-left: 10%;
+    box-shadow: 2px 3px 4px 4px rgba(0,0,0,.7);
+    /* display: inline-block; */
+}
+.box2{
+    background: #c9e6ff;
+    width: 350px;
+    height: 500px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.box3{
+    background: white;
+    width: 546px;
+    height: 500px;
+    /* padding-left: 350px; */
+    display: inline-block ; 
+    vertical-align: top ;
+}
+#taswira{
+    padding-left: 35px;
+    padding-top: 20px;
+}
+#ktiba1{
+    color: #485e74;
+}
+#ktiba2{
+    color:rgb(30, 111, 192)
+}
+#email{
+    color: #485e74;
+
+    padding-top:20px;
+    padding-left:15px;
+    
+}
+#name{
+    color: #485e74;
+ margin-left: 3%;
+    display: inline-block;
+    vertical-align: top ;
+}
+#track{
+    color: #485e74;
+    margin-left: 3%;
+
+    
+
+}
+#text{
+    padding-left:30px;
+    margin-left: 15px;
+}
+#slide{
+    color: #485e74;
+    margin-left: 3%;
+
+}
+#message{
+    color: #485e74;
+    margin-left: 3%; 
+}
+#button{
+   background-color: #c9e6ff;
+   width: 450px;
+   height: 40px;;
+   margin-left:10%; 
+   margin-top:3%; 
+
+}
+#button:hover{
+    color: #79bcf7
+}
+
+
+
+
+
